@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter",
+  "repo": "jupyter-packaging",
+  "versions": [
+    {
+      "commit": "4915fc8e36e38111b96c23e28e37b2873ca57907",
+      "parsed_at": "2026-10-28T11:09:41.502408+00:00",
+      "filetree": "filetree/4915fc8e36e38111b96c23e28e37b2873ca57907.nq.gz",
+      "blobs": [
+        "blob/7e8f67faef3850426c5eacc3115db550fc28dec9.nq.gz",
+        "blob/8a6dafbf1a1d9bbf058ffedf41524244450bf3da.nq.gz",
+        "blob/ec50f0fc60e33aea4aa09b044577819f6b84869e.nq.gz",
+        "blob/72364f99fe4bf8d5262df3b19b33102aeaa791e5.nq.gz",
+        "blob/c30c2c143a716c2aa202a0640757df688b03c0d0.nq.gz",
+        "blob/4bb9b39e7d8edd1dbb7ac1dbde8a4baa5811c559.nq.gz",
+        "blob/84e11fe35544592c22a07193034d0105f0970bc2.nq.gz",
+        "blob/c2108499eed8cd2c2397e2cd1eeaa00c350e5c9f.nq.gz",
+        "blob/eb5c3b356c6ac08e355926b4505be20927ad3f83.nq.gz",
+        "blob/dc4e4a1221c6a12ec9ee0751e738689bd19b3ba1.nq.gz",
+        "blob/385b47bb4a14f077d7b423618015f42a9758f423.nq.gz",
+        "blob/2ec12cc295bacf4ad78d8bce295c2ed9c52fcfbc.nq.gz",
+        "blob/aabf1d753dfe5f86eeb6f4909d0857a9684e8bbb.nq.gz",
+        "blob/1e11e82c59916d29e1e5a31b7613623a4d8066d4.nq.gz",
+        "blob/6fda381bd7622cdfdedf0e1ba45d09b072b07337.nq.gz",
+        "blob/725feab5ce652dc39f3f2c77b9fd3c90bf049c65.nq.gz",
+        "blob/b6739fe8ce3947dffca566efd02934e5c922124a.nq.gz",
+        "blob/db054adc261ccb402f3b4bf6de27a21c0e5370b8.nq.gz",
+        "blob/ab47198c14e98f2b9edfc3bddd7d89e72278b6ab.nq.gz",
+        "blob/45014fc44d76a3605a05ba3be909954917438c36.nq.gz",
+        "blob/2896e3c0648213fafb3deec52bbaeffc42e3b3ec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/a99e707ac794bb87fff7cbdc314d30445bc7a6fc.nq.gz",
+        "blob/f0ebbf4713e6194118ae7f37e9fd537e3f175660.nq.gz",
+        "blob/5c78f81cd0eac65862c567b390c61540d91bd809.nq.gz",
+        "blob/cbfdbe4a48837feb4a5142d4daa15d4d5bc8ac7e.nq.gz",
+        "blob/a75a95ff14032967f45c259b9b4a968049dc5836.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

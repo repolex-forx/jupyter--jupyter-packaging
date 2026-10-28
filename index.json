@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "jupyter-packaging",
+  "versions": [
+    {
+      "commit": "4915fc8e36e38111b96c23e28e37b2873ca57907",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:11:58.853457+00:00"
+    }
+  ]
+}
